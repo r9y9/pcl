@@ -696,4 +696,3 @@ NarfDescriptor::compute(NarfDescriptor::PointCloudOut& output)
   computeFeature(output);
 }
 }  // namespace end
-
